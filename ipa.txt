@@ -1,0 +1,111 @@
+name	voicing	place	manner	letter	sampa	cv
+name	voicing	place	manner	letter	sampa	cv
+Aspirated voiced alveolar plosive	voiced	alveolar	aspirated plosive	dʰ	d_h	consonant
+Aspirated voiceless alveolar plosive	voiceless	alveolar	aspirated plosive	tʰ	t_h	consonant
+Alveolar ejective	voiceless	alveolar	ejective	tʼ	t_>	consonant
+Alveolar ejective fricative	voiceless	alveolar	ejective fricative	sʼ	s_>	consonant
+Voiceless alveolar fricative	voiceless	alveolar	fricative	s	s	consonant
+Voiced alveolar fricative	voiced	alveolar	fricative	z	z	consonant
+Voiced alveolar implosive	voiced	alveolar	implosive	ɗ	d_<	consonant
+Labialized voiceless alveolar plosive	voiced	alveolar	labialized plosive	dʷ	d_h	consonant
+Labialized voiceless alveolar plosive	voiceless	alveolar	labialized plosive	tʷ	t_h	consonant
+Alveolar lateral approximant	voiced	alveolar	lateral approximant	l	l	consonant
+Voiceless alveolar lateral fricative	voiceless	alveolar	lateral fricative	ɬ	K	consonant
+Voiced alveolar lateral fricative	voiced	alveolar	lateral fricative	ɮ	K\\	consonant
+Alveolar nasal	voiced	alveolar	nasal	n	n	consonant
+Voiceless alveolar nasal	voiceless	alveolar	nasal	n̥	n_0	consonant
+Voiced alveolar plosive	voiced	alveolar	plosive	d	d	consonant
+Voiceless alveolar plosive	voiceless	alveolar	plosive	t	t	consonant
+Alveolar tap	voiced	alveolar	tap	ɾ	4	consonant
+Alveolar trill	voiced	alveolar	trill	r	r	consonant
+Aspirated voiced bilabial plosive	voiced	bilabial	aspirated plosive	bʰ	b_h	consonant
+Aspirated voiceless bilabial plosive	voiceless	bilabial	aspirated plosive	pʰ	p_h	consonant
+Bilabial ejective	voiceless	bilabial	ejective	pʼ	p_>	consonant
+Voiced bilabial fricative	voiceless	bilabial	fricative	ɸ	B	consonant
+Voiced bilabial fricative	voiced	bilabial	fricative	β	B	consonant
+Voiced bilabial implosive	voiced	bilabial	implosive	ɓ	b_<	consonant
+Labialized voiceless bilabial plosive	voiced	bilabial	labialized plosive	bʷ	b_h	consonant
+Labialized voiceless bilabial plosive	voiceless	bilabial	labialized plosive	pʷ	p_h	consonant
+Bilabial nasal	voiced	bilabial	nasal	m	m	consonant
+Voiceless bilabial nasal	voiceless	bilabial	nasal	m̥	m_0	consonant
+Voiced bilabial plosive	voiced	bilabial	plosive	b	b	consonant
+Voiceless bilabial plosive	voiceless	bilabial	plosive	p	p	consonant
+Bilabial trill	voiced	bilabial	trill	ʙ	%	consonant
+Voiced dental fricative	voiced	dental	fricative	ð	D	consonant
+Voiceless dental fricative	voiceless	dental	fricative	θ	T	consonant
+Voiced dental plosive	voiced	dental	plosive	d̪	d_d	consonant
+Voiceless dental plosive	voiceless	dental	plosive	t̪	t_d	consonant
+Voiceless glottal fricative	voiceless	glottal	fricative	h	h	consonant
+Glottal plosive	voiceless	glottal	plosive	ʔ	?	consonant
+Labiodental approximant	voiced	labiodental	approximant	ʋ	P	consonant
+Voiceless labiodental fricative	voiceless	labiodental	fricative	f	f	consonant
+Voiced labiodental fricative	voiced	labiodental	fricative	v	v	consonant
+Labiodental nasal	voiced	labiodental	nasal	ɱ	F	consonant
+Voiceless labiodental nasal	voiceless	labiodental	nasal	ɱ̥	F_0	consonant
+Palatal approximant	voiced	palatal	approximant	j	j	consonant
+Voiceless palatal fricative	voiceless	palatal	fricative	ç	C	consonant
+Voiced palatal fricative	voiced	palatal	fricative	ʝ	J\\	consonant
+Palatal lateral approximant	voiced	palatal	lateral approximant	ʎ	L	consonant
+Palatal nasal	voiced	palatal	nasal	ɲ	J	consonant
+Voiceless palatal plosive	voiceless	palatal	plosive	c	c	consonant
+Voiced palatal stop	voiced	palatal	plosive	ɟ	J\	consonant
+Voiceless palato-alveolar fricative	voiceless	palato-alveolar	fricative	ʃ	S	consonant
+Voiced palato-alveolar fricative	voiced	palato-alveolar	fricative	ʒ	Z	consonant
+Retroflex flap	voiced	retroflex	flap	ɽ	r`	consonant
+Voiceless retroflex fricative	voiceless	retroflex	fricative	ʂ	s`	consonant
+Voiced retroflex sibilant	voiced	retroflex	fricative	ʐ	z`	consonant
+Retroflex lateral approximant	voiced	retroflex	lateral approximant	ɭ	l`	consonant
+Retroflex nasal	voiced	retroflex	nasal	ɳ	n`	consonant
+Voiced retroflex plosive	voiced	retroflex	plosive	ɖ	d`	consonant
+Voiceless retroflex plosive	voiceless	retroflex	plosive	ʈ	t`	consonant
+Aspirated voiceless uvular plosive	voiceless	uvular	aspirated plosive	qʰ	q_h	consonant
+Uvular ejective	voiceless	uvular	ejective	qʼ	q_>	consonant
+Voiced uvular fricative	voiced	uvular	fricative	ʁ	R	consonant
+Voiceless uvular fricative	voiceless	uvular	fricative	χ	X	consonant
+Voiceless uvular plosive	voiceless	uvular	plosive	q	q	consonant
+Velar approximant	voiced	velar	approximant	ɰ	M\\	consonant
+Aspirated voiced velar plosive	voiced	velar	aspirated plosive	gʰ	g_h	consonant
+Aspirated voiceless velar plosive	voiceless	velar	aspirated plosive	kʰ	k_h	consonant
+Velar ejective	voiceless	velar	ejective	kʼ	k_>	consonant
+Voiced velar fricative	voiced	velar	fricative	ɣ	G	consonant
+Voiceless velar fricative	voiceless	velar	fricative	x	x	consonant
+Voiced velar implosive	voiced	velar	implosive	ɠ	g_<	consonant
+Labialized voiceless velar plosive	voiced	velar	labialized plosive	gʷ	g_h	consonant
+Labialized voiceless velar plosive	voiceless	velar	labialized plosive	kʷ	k_h	consonant
+Velar nasal	voiced	velar	nasal	ŋ	N	consonant
+Voiced velar plosive	voiced	velar	plosive	g	g	consonant
+Voiceless velar plosive	voiceless	velar	plosive	k	k	consonant
+Voiceless palatal ejective	voiceless	palatal	ejective	c’		consonant
+Voiceless palatal aspirated plosive	voiceless	palatal	aspirated plosive	cʰ		consonant
+Voiceless alveolo-palatal fricative	voiceless	Alveo-palatal	fricative	ɕ		consonant
+Voiced alveolar affricate	voiced	alveolar	affricate	d͡z		consonant
+Voiced palato-alveolar affricate	voiced	palato-alveolar	affricate	d͡ʒ		consonant
+Voiced aspirated palato-alveolar affricate	voiced	palato-alveolar	Aspirated affricate	d͡ʒʰ		consonant
+Voiced aspirated retroflex plosive	voiced	retroflex	aspirated plosive	ɖʰ		consonant
+Voiced labial–velar stop	voiced	Labio-velar	plosive	g͡b		consonant
+Voiced uvular plosive	voiced	uvular	plosive	ɢ	G\	consonant
+Voiceless pharyngeal fricative	voiceless	pharyngeal	fricative	ħ	X\	consonant
+Voiced glottal fricative	voiced	glottal	fricative	ɦ	h\	consonant
+Velar lateral approximant	voiced	lateral	approximant	L		consonant
+Voiced dental nasal	voiced	dental	nasal	n̪̪		consonant
+voiced uvular nasal	voiced	uvular	nasal	ɴ		consonant
+voiceless uvular ejective	voiceless	uvular	ejective	q’		consonant
+Uvular trill	voiced	uvular	trill	ʀ		consonant
+Voiced alveolar approximant	voiced	alveolar	approximant	ɹ		consonant
+Voiced retroflex approximant	voiced	retroflex	approximant	ɻ		consonant
+Voiceless alveolar ejective fricative	voiceless	alveolar	ejective fricative	s’		consonant
+Voiceless palatal ejective fricative	voiceless	palatal	ejective fricative	ʃ’		consonant
+Voiceless alveolar affricate	voiceless	alveolar	affricate	t͡s		consonant
+Voiceless alveolar ejective affricate	voiceless	alveolar	Ejective affricate	ts’		consonant
+Voiceless alveolar aspirated affricate	voiceless	alveolar	Aspirated affricate	tsʰ		consonant
+Voiceless postalveolar affricate	voiceless	postalveolar	affricate	t͡ʃ		consonant
+Voiceless postalveolar ejective affricate	voiceless	postalveolar	Ejective affricate	t͡ʃ’		consonant
+Voiceless postalveolar aspirated affricate	voiceless	postalveolar	Aspirate affricate	t͡ʃʰ		consonant
+Voiceless retroflex ejective	voiceless	retroflex	ejective	ʈ’		consonant
+Voiceless retroflex aspirated plosive	voiceless	retroflex	aspirated plosive	ʈʰ		consonant
+Labialized palatal approximant	voiced	labialized palatal	approximant	ɥ		consonant
+Voiced labiovelar approximant	voiced	labiovelar	approximant	w		consonant
+Aspirated voiceless labiovelar approximant	voiceless	labiovelar	aspirated approximant	wʰ		consonant
+Velar ejective fricative	voiceless	velar	ejective fricative	x’		consonant
+Voiced alveolo-palatal sibilant	voiced	Alveo-palatal	fricative	ʑ		consonant
+Epiglottal plosive	voiceless	epiglottal	plosive	ʡ		consonant

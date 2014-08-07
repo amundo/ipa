@@ -1,0 +1,35 @@
+<html ng-app="ipaApp">
+  <head>
+    <meta charset="utf-8">
+    <title>IPA</title>
+    <script src="js/angular.js"></script>
+    <script>
+      var ipaApp = angular.module('ipaApp', []);
+      ipaApp.controller('IpaCtrl', ['$scope', '$http', function (scope, http){
+        http.get('ipa.json').success(function(json) {
+
+          scope.sounds = json;
+
+        });
+      }]);
+    </script>
+<style>
+.letter { font-size: x-large; font-family: "Gentium Plus"; font-weight:normal;}
+</style>
+  </head>
+  <body ng-controller="IpaCtrl">
+    <h1>IPA</h1>
+    Search:<input ng-model="query" type="text"/>
+    <table>
+      <tr>
+        <th>sound</th>
+        <th>name</th>
+      </tr>
+      <tr ng-repeat=" sound in sounds | filter:query | orderBy:manner">
+        <td class=letter><strong>{{sound.letter}}</strong></td>
+        <td>{{sound.name}}</td>
+      </tr>
+    </table>
+    <p><a href=ipa.txt>Tab-delimited version</a></p>
+  </body>
+</html>
