@@ -40,7 +40,7 @@ h,consonant,voiceless,glottal,fricative,Voiceless glottal fricative,h
 f,consonant,voiceless,labiodental,fricative,Voiceless labiodental fricative,f
 v,consonant,voiced,labiodental,fricative,Voiced labiodental fricative,v
 ɱ,consonant,voiced,labiodental,nasal,Labiodental nasal,F
-ɱ̥,consonant,voiceless,labiodental,nasal,Voiceless labiodental nasal,F_0
+ɱ̥,consonant,voiceless,labiodental,nasal,Labiodental nasal,F_0
 j,consonant,voiced,palatal,approximant,Palatal approximant,j
 ç,consonant,voiceless,palatal,fricative,Voiceless palatal fricative,C
 ʝ,consonant,voiced,palatal,fricative,Voiced palatal fricative,J\\
@@ -63,7 +63,7 @@ qʼ,consonant,voiceless,uvular,ejective,Uvular ejective,q_>
 χ,consonant,voiceless,uvular,fricative,Voiceless uvular fricative,X
 q,consonant,voiceless,uvular,plosive,Voiceless uvular plosive,q
 ɰ,consonant,voiced,velar,approximant,Velar approximant,M\\
-gʰ,consonant,voiced,velar,aspirated plosive,Aspirated voiced velar plosive,g_h
+gʱ,consonant,voiced,velar,aspirated plosive,Aspirated voiced velar plosive,g_h
 kʰ,consonant,voiceless,velar,aspirated plosive,Aspirated voiceless velar plosive,k_h
 kʼ,consonant,voiceless,velar,ejective,Velar ejective,k_>
 ɣ,consonant,voiced,velar,fricative,Voiced velar fricative,G
@@ -86,7 +86,7 @@ g͡b,consonant,voiced,Labio-velar,plosive,Voiced labial–velar stop,
 ħ,consonant,voiceless,pharyngeal,fricative,Voiceless pharyngeal fricative,X\
 ɦ,consonant,voiced,glottal,fricative,Voiced glottal fricative,h\
 L,consonant,voiced,lateral,approximant,Velar lateral approximant,
-n̪,consonant,voiced,dental,nasal,Voiced dental nasal,
+n̪̪,consonant,voiced,dental,nasal,Voiced dental nasal,
 ɴ,consonant,voiced,uvular,nasal,voiced uvular nasal,
 q’,consonant,voiceless,uvular,ejective,voiceless uvular ejective,
 ʀ,consonant,voiced,uvular,trill,Uvular trill,

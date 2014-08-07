@@ -369,7 +369,7 @@
     "cv": "consonant"
   }, 
   {
-    "name": "Voiceless labiodental nasal", 
+    "name": "Labiodental nasal", 
     "voicing": "voiceless", 
     "place": "labiodental", 
     "manner": "nasal", 
@@ -580,7 +580,7 @@
     "voicing": "voiced", 
     "place": "velar", 
     "manner": "aspirated plosive", 
-    "letter": "g\u02b0", 
+    "letter": "g\u02b1", 
     "sampa": "g_h", 
     "cv": "consonant"
   }, 
@@ -787,7 +787,7 @@
     "voicing": "voiced", 
     "place": "dental", 
     "manner": "nasal", 
-    "letter": "n\u032a", 
+    "letter": "n\u032a\u032a", 
     "sampa": "", 
     "cv": "consonant"
   }, 
