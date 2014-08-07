@@ -4,6 +4,8 @@ ipa
 A database for IPA plus a simple web interface.
 --------------------
 
+Try it at http://wugbot.org/ipa/
+
 This repo has a couple goals:
 
 1. to serve as a source for a lightweight database the data encoded into the International Phonetic Alphabet. Current target formats are JSON and CSV.
