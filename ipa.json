@@ -1,10 +1,10 @@
 [
   {
-    "name": "Aspirated voiced alveolar plosive", 
+    "name": "Voiced aspirated  alveolar plosive", 
     "voicing": "voiced", 
     "place": "alveolar", 
     "manner": "aspirated plosive", 
-    "letter": "d\u02b0", 
+    "letter": "d\u02b1", 
     "sampa": "d_h", 
     "cv": "consonant"
   }, 
@@ -162,11 +162,11 @@
     "cv": "consonant"
   }, 
   {
-    "name": "Aspirated voiced bilabial plosive", 
+    "name": "Voiced aspirated bilabial plosive", 
     "voicing": "voiced", 
     "place": "bilabial", 
     "manner": "aspirated plosive", 
-    "letter": "b\u02b0", 
+    "letter": "b\u02b1", 
     "sampa": "b_h", 
     "cv": "consonant"
   }, 
@@ -576,7 +576,7 @@
     "cv": "consonant"
   }, 
   {
-    "name": "Aspirated voiced velar plosive", 
+    "name": "Voiced aspirated velar plosive", 
     "voicing": "voiced", 
     "place": "velar", 
     "manner": "aspirated plosive", 
@@ -711,6 +711,15 @@
     "cv": "consonant"
   }, 
   {
+    "name": "Voiced aspirated alveolar affricate", 
+    "voicing": "voiced", 
+    "place": "alveolar", 
+    "manner": "Aspirated affricate", 
+    "letter": "d\u0361z\u02b1", 
+    "sampa": "", 
+    "cv": "consonant"
+  }, 
+  {
     "name": "Voiced palato-alveolar affricate", 
     "voicing": "voiced", 
     "place": "palato-alveolar", 
@@ -724,7 +733,7 @@
     "voicing": "voiced", 
     "place": "palato-alveolar", 
     "manner": "Aspirated affricate", 
-    "letter": "d\u0361\u0292\u02b0", 
+    "letter": "d\u0361\u0292\u02b1", 
     "sampa": "", 
     "cv": "consonant"
   }, 
@@ -733,7 +742,7 @@
     "voicing": "voiced", 
     "place": "retroflex", 
     "manner": "aspirated plosive", 
-    "letter": "\u0256\u02b0", 
+    "letter": "\u0256\u02b1", 
     "sampa": "", 
     "cv": "consonant"
   }, 
@@ -774,11 +783,11 @@
     "cv": "consonant"
   }, 
   {
-    "name": "Velar lateral approximant", 
+    "name": "Voiced velar lateral approximant", 
     "voicing": "voiced", 
     "place": "lateral", 
     "manner": "approximant", 
-    "letter": "L", 
+    "letter": "\u029f", 
     "sampa": "", 
     "cv": "consonant"
   }, 

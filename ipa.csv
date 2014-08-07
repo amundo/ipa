@@ -1,5 +1,5 @@
 letter,cv,voicing,place,manner,name,sampa
-dʰ,consonant,voiced,alveolar,aspirated plosive,Aspirated voiced alveolar plosive,d_h
+dʱ,consonant,voiced,alveolar,aspirated plosive,Voiced aspirated  alveolar plosive,d_h
 tʰ,consonant,voiceless,alveolar,aspirated plosive,Aspirated voiceless alveolar plosive,t_h
 tʼ,consonant,voiceless,alveolar,ejective,Alveolar ejective,t_>
 sʼ,consonant,voiceless,alveolar,ejective fricative,Alveolar ejective fricative,s_>
@@ -17,7 +17,7 @@ d,consonant,voiced,alveolar,plosive,Voiced alveolar plosive,d
 t,consonant,voiceless,alveolar,plosive,Voiceless alveolar plosive,t
 ɾ,consonant,voiced,alveolar,tap,Alveolar tap,4
 r,consonant,voiced,alveolar,trill,Alveolar trill,r
-bʰ,consonant,voiced,bilabial,aspirated plosive,Aspirated voiced bilabial plosive,b_h
+bʱ,consonant,voiced,bilabial,aspirated plosive,Voiced aspirated bilabial plosive,b_h
 pʰ,consonant,voiceless,bilabial,aspirated plosive,Aspirated voiceless bilabial plosive,p_h
 pʼ,consonant,voiceless,bilabial,ejective,Bilabial ejective,p_>
 ɸ,consonant,voiceless,bilabial,fricative,Voiced bilabial fricative,B
@@ -63,7 +63,7 @@ qʼ,consonant,voiceless,uvular,ejective,Uvular ejective,q_>
 χ,consonant,voiceless,uvular,fricative,Voiceless uvular fricative,X
 q,consonant,voiceless,uvular,plosive,Voiceless uvular plosive,q
 ɰ,consonant,voiced,velar,approximant,Velar approximant,M\\
-gʱ,consonant,voiced,velar,aspirated plosive,Aspirated voiced velar plosive,g_h
+gʱ,consonant,voiced,velar,aspirated plosive,Voiced aspirated velar plosive,g_h
 kʰ,consonant,voiceless,velar,aspirated plosive,Aspirated voiceless velar plosive,k_h
 kʼ,consonant,voiceless,velar,ejective,Velar ejective,k_>
 ɣ,consonant,voiced,velar,fricative,Voiced velar fricative,G
@@ -78,14 +78,15 @@ c’,consonant,voiceless,palatal,ejective,Voiceless palatal ejective,
 cʰ,consonant,voiceless,palatal,aspirated plosive,Voiceless palatal aspirated plosive,
 ɕ,consonant,voiceless,Alveo-palatal,fricative,Voiceless alveolo-palatal fricative,
 d͡z,consonant,voiced,alveolar,affricate,Voiced alveolar affricate,
+d͡zʱ,consonant,voiced,alveolar,Aspirated affricate,Voiced aspirated alveolar affricate,
 d͡ʒ,consonant,voiced,palato-alveolar,affricate,Voiced palato-alveolar affricate,
-d͡ʒʰ,consonant,voiced,palato-alveolar,Aspirated affricate,Voiced aspirated palato-alveolar affricate,
-ɖʰ,consonant,voiced,retroflex,aspirated plosive,Voiced aspirated retroflex plosive,
+d͡ʒʱ,consonant,voiced,palato-alveolar,Aspirated affricate,Voiced aspirated palato-alveolar affricate,
+ɖʱ,consonant,voiced,retroflex,aspirated plosive,Voiced aspirated retroflex plosive,
 g͡b,consonant,voiced,Labio-velar,plosive,Voiced labial–velar stop,
 ɢ,consonant,voiced,uvular,plosive,Voiced uvular plosive,G\
 ħ,consonant,voiceless,pharyngeal,fricative,Voiceless pharyngeal fricative,X\
 ɦ,consonant,voiced,glottal,fricative,Voiced glottal fricative,h\
-L,consonant,voiced,lateral,approximant,Velar lateral approximant,
+ʟ,consonant,voiced,lateral,approximant,Voiced velar lateral approximant,
 n̪̪,consonant,voiced,dental,nasal,Voiced dental nasal,
 ɴ,consonant,voiced,uvular,nasal,voiced uvular nasal,
 q’,consonant,voiceless,uvular,ejective,voiceless uvular ejective,
