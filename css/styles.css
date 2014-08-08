@@ -10,17 +10,12 @@ h1 {
   text-align: center;
 }
 
-.side {
-  height: 100%;
-  background-color: #B2FFFF;
-}
+#menu{
+  }  
 
-.sidediv {
-  padding-left: 40px;
-}
-
-.plus, .minus{
-  position: fixed;
+#menuicon {
   top: .5em;
   left: .5em;
+  position: absolute;
+  height: 32px;
 }
