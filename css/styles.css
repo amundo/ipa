@@ -1,0 +1,21 @@
+.letter { 
+  font-size: x-large; 
+  font-family: 'gentium_basicregular', Fallback, sans-serif;
+  font-family: 'Gentium Plus', Fallback, sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 4em;
+  text-align: center;
+}
+
+#menu{
+  }  
+
+#menuicon {
+  top: .5em;
+  left: .5em;
+  position: absolute;
+  height: 32px;
+}

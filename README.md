@@ -25,3 +25,12 @@ Then what?
 Supposing this goal is accepted, how do we actually get to a point where a lot of people can do this sort of thing for a lot of languages and writing systems? We build an interface that makes it possible to build orthographic inventories, and _another_ interface to map that orthographic inventory onto the IPA inventory. That's the second goal.
 
 so
+=======
+A database for IPA with a simple web interface.
+
+license
+=======
+<a href="www.wtfpl.net">WTFPL</a> - Do What the Fuck You Want to Public License
+
+
+
