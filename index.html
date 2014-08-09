@@ -2,7 +2,13 @@
   <head>
     <meta charset="utf-8">
     <title>IPA</title>
+    <link href="css/styles.css" rel="stylesheet"/> 
+    <link type="text/css" href="gentium/stylesheet.css" rel="stylesheet"/> 
+    <link type="text/css" href="css/jquery.sidr.dark.css" rel="stylesheet"/>
     <script src="js/angular.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.sidr.min.js"></script>
+    <script src="js/sidebar.js"></script>
     <script>
       var ipaApp = angular.module('ipaApp', []);
       ipaApp.controller('IpaCtrl', ['$scope', '$http', function (scope, http){
@@ -13,9 +19,6 @@
         });
       }]);
     </script>
-<style>
-.letter { font-size: x-large; font-family: "Gentium Plus"; font-weight:normal;}
-</style>
   </head>
   <body ng-controller="IpaCtrl">
     <h1>IPA</h1>
@@ -31,5 +34,24 @@
       </tr>
     </table>
     <p><a href=ipa.txt>Tab-delimited version</a> | <a href=https://github.com/amundo/ipa>Github</a> </p>
+  
+  <!--begin sidebar-->
+  <a id="menu" href="#sidr">
+    <img id="menuicon" src="img/menu.png"> 
+  </a>
+  <div id="sidr">
+    <div id="menu">
+      <h1> the international phonetic alphabet </h1>
+      <h2>How To Use This Tool:</h2>
+        <p>Just type in a description of the sound or the letter itself!</p>
+    <hr>
+    <p>Check out the <a href="http://github.com/amundo/ipa">Github</a>!<br>
+      <br><a href=ipa.txt>Tab-delimited version</a></p>
+    
+    </div>    
+  </div>
+  <!--end sidebar-->
+
   </body>
+
 </html>
